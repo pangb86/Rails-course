@@ -3,6 +3,7 @@ puts "Bo" + "Pang"
 first_name = "Bo"
 last_name = "Pang"
 puts first_name + last_name
+# string interpolation
 puts "My name is #{first_name}"
 # string methods and properties
 puts first_name.empty?
